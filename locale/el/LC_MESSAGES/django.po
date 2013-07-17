@@ -1099,7 +1099,7 @@ msgstr "Στατιστικά Πλατφόρμας"
 
 #: templates/statistics.html:341 templates/statistics.html.py:380
 msgid "Managed by ViMa"
-msgstr "Διαχειριζόμενα από τη ViMa"
+msgstr "Διαχειριζόμενες από τη ViMa"
 
 #: templates/statistics.html:344
 msgid "Instances "
